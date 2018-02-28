@@ -1,1 +1,1 @@
-# Python Manual
+# Python Sample
