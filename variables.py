@@ -1,7 +1,7 @@
 # VARIABLES & DATA TYPES
 
 greeting = 'Hello World'
-greeting = 'Hello Everyone' # reassign
+greeting = 'Hello Everyone'  # reassign
 
 print(greeting)
 
@@ -10,7 +10,7 @@ myStr = 'Hello'
 myInt = 25
 myFloat = 1.3
 
-myList = [1,2,3,'Hello']
+myList = [1, 2, 3, 'Hello']
 myDict = {'a': 1, 'b': 2, 'c': 3}
 
 print(type(myStr), myStr)

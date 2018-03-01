@@ -34,7 +34,7 @@ print('Hello'[0:3])
 print(2)
 
 # Print on same line
-print(1,2,3,'Hello')
+print(1, 2, 3, 'Hello')
 
 print('LINE1\nLINE2\nLINE3')
 

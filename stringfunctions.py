@@ -33,10 +33,10 @@ print(myStr.find('H'))
 # index
 print(myStr.index('H'))
 
-#Is all alphanumeric
+# Is all alphanumeric
 print(myStr.isalnum())
 
-#Is all alphabetic
+# Is all alphabetic
 print(myStr.isalpha())
 
 # Is all numeric
